@@ -15,7 +15,7 @@ Cisco Packet Tracer implementation of a **secure multi-floor enterprise network*
 
 ## Structure
 
-** BrightSoft Solutions 3-Floor Office Network** - Secure layout for developers, analysts, testers with client demo server.
+** Software Company 3-Floor Office Network** - Secure layout for developers, analysts, testers with client demo server.
 
 ##  Progress
 | Task | Status |
