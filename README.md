@@ -14,3 +14,15 @@ Cisco Packet Tracer implementation of a **secure multi-floor enterprise network*
 | 1.2 DHCP |  Next | 0/10 |
 
 ## Structure
+
+** BrightSoft Solutions 3-Floor Office Network** - Secure layout for developers, analysts, testers with client demo server.
+
+##  Progress
+| Task | Status |
+|------|--------|
+| Layout | ✅ **COMPLETE** |
+|  DHCP | 🔄 Next | 
+
+**See details:** [Network Layout →](docs/01-Network-Layout.md)
+
+**Download:** [BrightSoft-v1.1.pkt](pkt-files/)
