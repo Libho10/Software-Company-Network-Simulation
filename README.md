@@ -23,6 +23,6 @@ Cisco Packet Tracer implementation of a **secure multi-floor enterprise network*
 | Layout |  **COMPLETE** |
 |  DHCP | Next | 
 
-**See details:** [Network Layout →](docs/01-Network-Layout.md)
+**See details:** [Network Layout →](docs/01-Netwrok-Layout.md) 
 
 **Download:** [BrightSoft-v1.1.pkt](pkt-files/)
