@@ -21,7 +21,7 @@ Cisco Packet Tracer implementation of a **secure multi-floor enterprise network*
 | Task | Status |
 |------|--------|
 | Layout |  **COMPLETE** |
-|  DHCP | Next | 
+|  DHCP | **Complete** | 
 
 **See details:** [Network Layout →](docs/01-Netwrok-Layout.md) 
 
