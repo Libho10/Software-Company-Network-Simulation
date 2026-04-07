@@ -8,10 +8,10 @@ Cisco Packet Tracer implementation of a **secure multi-floor enterprise network*
 - **Central**: DNS (192.168.0.13), Production server, Syslog
 
 ## Progress
-| Task | Status | Marks |
-|------|--------|-------|
-| 1.1 Layout | Building | 0/5 |
-| 1.2 DHCP |  Next | 0/10 |
+| Task | Status | 
+|------|--------|
+| 1.1 Layout | Building |
+| 1.2 DHCP |  Next |
 
 ## Structure
 
